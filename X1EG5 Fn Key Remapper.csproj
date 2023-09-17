@@ -10,9 +10,10 @@
     <ApplicationIcon>fn.ico</ApplicationIcon>
     <ApplicationManifest>app.manifest</ApplicationManifest>
 	<PublishSingleFile>true</PublishSingleFile>
-
-	  <SelfContained>true</SelfContained>
-	  <PublishReadyToRun>true</PublishReadyToRun>
+	<SelfContained>true</SelfContained>
+	<PublishReadyToRun>true</PublishReadyToRun>
+	<DebugType>none</DebugType>
+	<DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
 
   <ItemGroup>
