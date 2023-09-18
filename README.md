@@ -14,7 +14,7 @@ A simple GUI to allow remapping Function keys on the Lenovo Thinkpad X1 Extreme 
 
 [Description](#description) •
 [How to Use](#how-to-use) •
-[Building](#compatibility)
+[Compatibility](#compatibility)
 
 </div>
 
