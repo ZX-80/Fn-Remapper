@@ -55,6 +55,10 @@ As you can see, only F4-12 & Tab can be modified this way, but I had no intentio
   <img width="547" alt="Screenshot 2023-09-17 173819" src="https://github.com/ZX-80/Fn-Remapper/assets/44975876/df4d23a7-3ca3-437e-80c9-dd49d29257cb">
 </p>
 
+**First Run**
+- Export `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch` in regedit and save it as a backup
+- If you see any popups when clicking certain function keys, you may need to disable Lenovos "On screen display drawer" (tposd.exe) in the Group policy editor
+
 **Modifying a Function Key**
 1. Select the button you wish to modify from the top row
 2. Edit `File` to the full path of the program you wish to run
@@ -62,12 +66,10 @@ As you can see, only F4-12 & Tab can be modified this way, but I had no intentio
 4. Click Apply to save your changes
 
 **Resetting a Function Key**
-1. Select the button you wish to modify from the top row
+1. Select the button you wish to reset from the top row
 2. Click Default to reset the key to its default function
 
 # Compatibility
-
-If you see any popups when clicking certain function keys, you may need to disable Lenovos "On screen display drawer" (tposd.exe) in the Group policy editor.
 
 This program has only been tested on the following:
 
