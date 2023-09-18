@@ -7,7 +7,7 @@
 ![badge](https://badgen.net/badge/.net/6/yellow?style=flat-square)
 
 <p align = "center">
-  <img width="527" alt="X1EG5 Keyboard" src="https://github.com/ZX-80/Fn-Remapper/assets/44975876/0670f604-3c68-4e8f-abeb-01417871146a">
+  <img width="527" alt="X1EG5 Keyboard" src="https://github.com/ZX-80/Fn-Remapper/assets/44975876/22a1f75f-839c-4413-a9a7-e31ccb4db984">
 </p>
 
 A simple GUI to allow remapping Function keys on the Lenovo Thinkpad X1 Extreme Gen 5
@@ -52,7 +52,7 @@ As you can see, only F4-12 & Tab can be modified this way, but I had no intentio
 # How to Use
 
 <p align = "center">
-  <img width="547" alt="Screenshot 2023-09-17 173819" src="https://github.com/ZX-80/Fn-Remapper/assets/44975876/df4d23a7-3ca3-437e-80c9-dd49d29257cb">
+  <img width="547" alt="Application Screenshot" src="https://github.com/ZX-80/Fn-Remapper/assets/44975876/2950fe12-1a16-4152-9816-9343ce0199f1">
 </p>
 
 **First Run**
