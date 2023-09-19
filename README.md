@@ -71,7 +71,7 @@ As you can see, only F4-12 & Tab can be modified this way, but I had no intentio
 
 # Compatibility
 
-This program has only been tested on the following:
+This program has only been tested on the following. It is provided as-is, without any warranty. Use at your own peril.
 
 - Laptop: Lenovo Thinkpad X1 Extreme Gen 5
 - Lenovo Commercial Vantage: 10.2305.30.0
