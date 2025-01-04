@@ -69,6 +69,9 @@ As you can see, only F4-12 & Tab can be modified this way, but I had no intentio
 1. Select the button you wish to reset from the top row
 2. Click Default to reset the key to its default function
 
+> [!NOTE]
+> If Lenovo vantage keeps popping up (even after remapping), you may need to disable `hlp8.exe` (somewhere in `C:\Windows\System32\DriverStore\FileRepository`). This program is responsible for the hotkey action, and described in the exe as "Helper exe for shortcut hot key on Windows 8/10".
+
 # Compatibility
 
 > [!WARNING] 
